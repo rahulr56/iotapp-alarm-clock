@@ -1,0 +1,22 @@
+{
+   "repoName" : "iotapp-alarm-clock",
+   "description" : "This smart alarm clock application can be accessed with your mobile phone via the built-in web interface to set the alarm time, displays live weather data on the LCD, and keeps track of how long it takes you to wake up each morning, using cloud-based data storage.",
+   "title" : "Alarm Clock",
+   "template" : true,
+   "relName" : "4.0.0",
+   "tooltip" : "This smart alarm clock application can be accessed with your mobile phone via the built-in web interface to set the alarm time, displays live weather data on the LCD, and keeps track of how long it takes you to wake up each morning, using cloud-based data storage.",
+   "section" : "iot-templates",
+   "group" : "other",
+   "visible" : true,
+   "projectTypeName" : "com.intel.xdk.projecttype.iotapp",
+   "articleUrl" : "https://software.intel.com/en-us/articles/alarm-clock",
+   "highlights" : [
+      ""
+   ],
+   "screenshotUrl" : "",
+   "appName" : "demo.alarmclock",
+   "keywords" : [
+      ""
+   ],
+   "iconUrl" : ""
+}
